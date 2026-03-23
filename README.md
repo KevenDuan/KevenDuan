@@ -27,4 +27,5 @@ I’m KevenDuan
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevenduan)](https://github.com/anuraghazra/github-readme-stats)
-<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevenduan" /> </div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevenduan&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
