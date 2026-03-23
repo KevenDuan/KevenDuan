@@ -19,10 +19,8 @@ I’m KevenDuan
 <!--Introduction -->
 > I am majoring in Artificial Intelligence, with a strong research interest in Computer Vision and Machine Learning, particularly focusing on Deep Learning and Reinforcement Learning methodologies.
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevenduan" alt="Anurag's GitHub stats" />
-  </a>
-</p>
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D91672543&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37691)](https://space.bilibili.com/91672543?spm_id_from=333.1007.0.0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:duanhao185@gmail.com)
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevenduan" /> </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevenduan)](https://github.com/anuraghazra/github-readme-stats)
+<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevenduan" /> </div>
