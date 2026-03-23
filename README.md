@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋😃
 
 <!--
 **KevenDuan/KevenDuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m KevenDuan  
+> I am majoring in Artificial Intelligence, with a strong research interest in computer vision and machine learning, particularly focusing on deep learning and reinforcement learning methodologies.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevenDuan&show_icons=true&theme=radical)
