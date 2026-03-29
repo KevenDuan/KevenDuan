@@ -26,6 +26,9 @@ I’m KevenDuan
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 
+<!-- 
 ![kevenduan's stars](https://github-readme-stats.shion.dev/api?username=kevenduan)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+-->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light?border=true)](https://github.com/piyushsuthar/github-readme-quotes)   
 [![kevenduan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kevenduan&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
