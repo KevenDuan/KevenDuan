@@ -1,7 +1,7 @@
 ## Hi there 👋 😃
 
 <!-- 左图片 -->
-<img width="45%" align="left" src="https://github.com/KevenDuan/KevenDuan/blob/main/img.png" />
+<img width="45%" align="left" src="https://github.com/KevenDuan/KevenDuan/blob/main/img.jpg" />
 
 <!-- 自我介绍 -->
 I’m KevenDuan
