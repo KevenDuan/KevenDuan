@@ -6,7 +6,7 @@
 <!-- 自我介绍 -->
 I’m KevenDuan
 <!--Introduction -->
-> I am majoring in Artificial Intelligence, with a strong research interest in Computer Vision and Machine Learning, particularly focusing on Deep Learning and Reinforcement Learning methodologies.
+> I am majoring in Artificial Intelligence, with a strong research interest in Robot Learning, Legged Robot Locomotion, particularly focusing on Deep Learning and Reinforcement Learning.
 
 <!-- 徽章 -->
 [![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D91672543&query=data.follower&style=flat&logo=bilibili&logoColor=white&label=bilibili%20fans&labelColor=%23F37691)](https://space.bilibili.com/91672543?spm_id_from=333.1007.0.0)
